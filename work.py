@@ -1,4 +1,4 @@
-# app.py
+# work.py
 from http.server import SimpleHTTPRequestHandler, HTTPServer
 
 PORT = 8000
